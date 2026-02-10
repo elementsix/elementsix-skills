@@ -84,15 +84,14 @@ cp -r seedance-storyboard ~/.claude/skills/
 ## 文件结构
 
 ```
-.claude-plugin/
-├── plugin.json          # 插件配置
-└── marketplace.json     # Marketplace 索引
-SKILL.md                 # 主 skill 逻辑
-templates/
-└── storyboard-template.md    # 6套分镜模板
-examples/
-└── example-prompts.md        # 10个完整示例
-quick-reference.md            # 快速参考卡片
+skills/seedance-storyboard/
+├── SKILL.md                        # 主 Skill 逻辑
+├── README.md                       # Skill 详细说明
+├── quick-reference.md              # 快速参考卡片
+├── templates/
+│   └── storyboard-template.md      # 6套分镜模板
+└── examples/
+    └── example-prompts.md          # 10个完整示例
 ```
 
 ## Seedance 2.0 核心能力

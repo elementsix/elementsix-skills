@@ -69,17 +69,17 @@ Seedance 2.0 是即梦（剪映）推出的强大多模态 AI 视频生成模型
 ```
 elementsix-skills/
 ├── .claude-plugin/
-│   └── marketplace.json          # Marketplace 配置
-├── seedance-storyboard/          # 主 Skill 目录
-│   ├── SKILL.md                  # Skill 核心逻辑
-│   ├── templates/
-│   │   └── storyboard-template.md    # 6套分镜模板
-│   ├── examples/
-│   │   └── example-prompts.md        # 10个完整示例
-│   ├── quick-reference.md            # 快速参考卡片
-│   ├── README.md                     # Skill 详细说明
-│   └── LICENSE                       # MIT 许可证
-└── README.md                     # 本文件
+│   └── marketplace.json              # Marketplace 配置
+├── README.md                         # 本文件
+└── skills/
+    └── seedance-storyboard/          # 主 Skill 目录
+        ├── SKILL.md                  # Skill 核心逻辑
+        ├── README.md                 # Skill 详细说明
+        ├── quick-reference.md        # 快速参考卡片
+        ├── templates/
+        │   └── storyboard-template.md    # 6套分镜模板
+        └── examples/
+            └── example-prompts.md        # 10个完整示例
 ```
 
 ## 🎬 Seedance 2.0 核心能力
