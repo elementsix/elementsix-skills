@@ -1,4 +1,4 @@
-# 🎬 Seedance Storyboard - ElementSix Skills
+# 🎬 Seedance-Storyboard
 
 <p align="center">
   <img src="https://img.shields.io/github/stars/elementsix/elementsix-skills?logo=github&logoColor=white&labelColor=333&color=ffb700&style=for-the-badge" alt="stars" />
