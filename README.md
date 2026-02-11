@@ -14,6 +14,10 @@
   <b>将任何想法转换成即梦 Seedance 2.0 专业分镜提示词的 Claude Code Skill</b>
 </p>
 
+<p align="center">
+  <a href="README.md">🇨🇳 中文</a> | <a href="README_EN.md">🇬🇧 English</a>
+</p>
+
 ## 📖 简介
 
 Seedance 2.0 是即梦（剪映）推出的强大多模态 AI 视频生成模型，但写出好的提示词对普通人来说很困难。这个 Skill 通过一步步引导，帮你把简单的想法转换成专业的分镜提示词。
