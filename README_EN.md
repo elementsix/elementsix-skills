@@ -1,4 +1,8 @@
-# 🎬 Seedance Storyboard - ElementSix Skills
+# 🎬 Seedance Storyboard
+
+<p align="center">
+  <a href="README.md">中文</a> | <a href="README_EN.md">English</a>
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/github/stars/elementsix/elementsix-skills?logo=github&logoColor=white&labelColor=333&color=ffb700&style=for-the-badge" alt="stars" />
@@ -41,6 +45,19 @@ Seedance 2.0 is a powerful multimodal AI video generation model by Jimeng (CapCu
 ```
 
 > ⚠️ **Note**: You **must exit and re-enter Claude Code** after installation for the `/seedance-storyboard` command to become available.
+
+## 🔄 Update Skill
+
+To update the skill to the latest version:
+
+1. Run `/plugin` in Claude Code
+2. Switch to the **Marketplaces** tab (use arrow keys or Tab)
+3. Select `elementsix-skills`
+4. Select `Update marketplace`
+
+You can also select `Enable auto-update` to automatically get the latest version on each startup.
+
+![Update Skill Screenshot](docs/images/update-skill.png)
 
 ## 🎯 Usage
 
