@@ -23,13 +23,24 @@ Seedance 2.0 是即梦（剪映）推出的强大多模态 AI 视频生成模型
 
 ## 🚀 安装方法
 
+### 前提条件
+
+- 已安装 [Claude Code](https://claude.ai/code)
+
+### 安装步骤
+
 ```bash
 # 1. 添加 Marketplace
 /plugin marketplace add elementsix/elementsix-skills
 
 # 2. 安装 Skill
 /plugin install seedance-storyboard@elementsix-skills
+
+# 3. 重启 Claude Code（重要！）
+# 退出 Claude Code 后重新进入，命令 /seedance-storyboard 才会生效
 ```
+
+> ⚠️ **注意**：安装完成后必须**退出并重新进入 Claude Code**，命令 `/seedance-storyboard` 才能正常使用。
 
 ## 🎯 使用方法
 
